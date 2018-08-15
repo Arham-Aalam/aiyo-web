@@ -1,0 +1,11 @@
+#mob {
+    height: 600;
+    width: 290;
+    margin-left: 60px;
+}
+
+@media (max-width: 600px) {
+    #mob {
+        display: none;
+    }
+}
